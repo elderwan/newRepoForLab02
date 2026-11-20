@@ -1,0 +1,1 @@
+.. add a new file in the dev branch and create a new file namec.txt, and put the text this is new file, then commit the code withthe comment. “Add a new c.txt file”
